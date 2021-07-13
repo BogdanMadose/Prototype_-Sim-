@@ -9,4 +9,4 @@ It is __highly__ recommended to not use downgraded versions. (If you are using a
 If  you are already using <a href="unityhub://2021.1.14f1/51d2f824827f" title="Unity Hub download">Unity Hub</a> you can simply download the repo as ZIP, extract it then add it as a project through the hub.
 
 
-Special thanks to __Kenneth R. Andersen__ for providing wonderfully made icons.
+Special thanks to __Kenneth__ for providing wonderfully made icons.
